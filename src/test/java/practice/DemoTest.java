@@ -15,6 +15,8 @@ public class DemoTest {
 	@Test(groups ={"smoke","Regression"})
 	public void m3() {
 		System.out.println("print-3");
+		
+		System.out.println("print-4");
 	}
 
 }
